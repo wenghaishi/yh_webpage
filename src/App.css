@@ -37,11 +37,11 @@
   }
 }
 
-.blue-light { color: rgb(190, 233, 232); }
-.blue-medium { color: rgb(98, 182, 203); }
+.blue-light { color: rgb(233, 222, 190); }
+.blue-medium { color: rgb(203, 161, 98); }
 .blue-dark { color: rgb(27, 73, 101); }
 .blue-sky { color: rgb(202, 233, 255); }
-.blue-sea { color: rgb(95, 168, 211); }
+.blue-sea { color: rgb(211, 164, 95); }
 
 .bg-yellow { background-color: #ffc106 !important; }
 .bg-red { background-color: #dd3444 !important; }

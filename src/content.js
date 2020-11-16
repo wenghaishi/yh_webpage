@@ -1,5 +1,5 @@
 export default {
-  dev_projects: [
+  projects: [
     {
       name: "Razer Hackathon 2020, Gamified Finance App",
       description: "ReactJS | Sandboxed Trading & Loans Webapp | Top 24 (Semi-finalist)",
@@ -44,72 +44,6 @@ export default {
       }
     }
   ],
-  data_projects: [
-    {
-      name: "Shopee Code League 2020 - Image Classifier",
-      description: "Product image classification using Tensorflow CNNs and Transfer Learning",
-      link: "https://github.com/john-97/Machine_Learning_Projects/blob/main/Image_Classification.ipynb",
-      class: "col",
-      badge: {
-        text: "Python: Tensorflow, CNN",
-        class: "bg-blue"
-      }
-    },
-    {
-      name: "DataHack Hackathon 2019 - Language Translator",
-      description: "Traditional Chinese to English translation using the Encoder-Decoder-Attention model",
-      link: "https://github.com/john-97/Machine_Learning_Projects/blob/main/Language_Translation.ipynb",
-      class: "col",
-      badge: {
-        text: "Python: Tensorflow, RNN",
-        class: "bg-blue"
-      }
-    }
-  ],
-  algo_projects: [
-    {
-      name: "Joke Generator, CS 201",
-      description: "Data Structures & Spring | Weighted Directed Graph & Algos",
-      link: "https://github.com/john-97/CS201_Joke_Generator.git",
-      class: "col",
-      badge: {
-        text: "Java: Spring, Graph, Algorithms",
-        class: "bg-red"
-      }
-    },
-    {
-      name: "Data Structures Repository",
-      description: "Data Structures | Store of Java Data Structures and Algorithms",
-      link: "https://github.com/john-97/Data_Structures_and_Algorithms.git",
-      class: "col",
-      badge: {
-        text: "Java: Data Structures in Java",
-        class: "bg-red"
-      }
-    }
-  ],
-  professional_websites: [
-    {
-      name: "Xen Technologies",
-      description: "Fund of Funds platform that uses Blockchain, ExpressJS, Cassandra, ReactJS",
-      link: "https://xencapital.com/",
-      class: "col",
-      badge: {
-        text: "Javascript: ReactJS, webpack",
-        class: "bg-yellow"
-      }
-    },
-    {
-      name: "Road to Sangam",
-      description: "Ecommerce platform that uses Wordpress, ExpressJS, Mongodb to connect to multiple B2B APIs",
-      link: "https://roadtosangam.com/",
-      class: "col",
-      badge: {
-        text: "Javascript: ExpressJS, mongodb",
-        class: "bg-yellow"
-      }
-    }
-  ],
   contact: [
     {
       name: "Linkedin",
@@ -130,7 +64,7 @@ export default {
       class: "w-100"
     }
   ],
-  description: "\\weight-3\\Studying as an Undergraduate of Computer Science at SMU (Singapore Management University). I am actively seeking an internship for both the Summer and Fall periods.\n• Summer (3 months full time - May to Aug)\n• Fall (4 months full time - Aug to Jan)\n\n\\weight-3\\I have experience in:\n• Frontend Development (ReactJS, webpack, SCSS)\n• Backend Development (Spring, ExpressJS, Django, Tornado, SQL)\n• DevOps (AWS, Terraform, Docker, Kubernetes)\n• Machine Learning (Tensorflow - CNNs, RNNs, encoder-decoder, nltk)",
+  description: "\\weight-3\\Studying as an Undergraduate of Psychology and Marketing at SMU (Singapore Management University). I am actively seeking an internship for both the Summer and Fall periods.\n• Summer (3 months full time - May to Aug)\n• Fall (4 months full time - Aug to Jan)\n\n\\weight-3\\I have experience in:\n• Marketing research\n• Digital Marketing",
   education: [
     {
       title: "B.S. Computer Science, Singapore Management University",

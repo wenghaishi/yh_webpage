@@ -124,21 +124,9 @@ function App() {
       case projects:
         return (
           <div class="container">
-            <div className="blue-dark size-3 text-left py-3">Development Projects</div>
+            <div className="blue-dark size-3 text-left py-3">Research Projects</div>
             <div class="row">
-              { generateLinkComponent(content.dev_projects) }
-            </div>
-            <div className="blue-dark size-3 text-left py-3">Data Science Projects</div>
-            <div class="row">
-              { generateLinkComponent(content.data_projects) }
-            </div>
-            <div className="blue-dark size-3 text-left py-3">Algorithmic Projects</div>
-            <div class="row">
-              { generateLinkComponent(content.algo_projects) }
-            </div>
-            <div className="blue-dark size-3 text-left py-3">Professional Websites</div>
-            <div class="row">
-              { generateLinkComponent(content.professional_websites) }
+              { generateLinkComponent(content.projects) }
             </div>
             {/* footer */}
             { generateFooter(setPage, projects) }
