@@ -67,11 +67,11 @@ export default {
   description: "\\weight-3\\Studying as an Undergraduate of Psychology and Marketing at SMU (Singapore Management University). I am actively seeking an internship for both the Summer and Fall periods.\n• Summer (3 months full time - May to Aug)\n• Fall (4 months full time - Aug to Jan)\n\n\\weight-3\\I have experience in:\n• Marketing research\n• Digital Marketing",
   education: [
     {
-      title: "B.S. Computer Science, Singapore Management University",
+      title: "BsoSc, Singapore Management University",
       positions: [
         {
-          name: "Majoring in Artificial Intelligence & Cybersecurity",
-          date: "Aug 2019 to Dec 2022",
+          name: "Majoring in Psychology and Marketing",
+          date: "Aug 2018 to May 2022",
           description: "\\weight-3\\Technical Skill and Coursework\n• Data Structures & Object Oriented Design, Algorithms\n• Java, C, Python, JavaScript, HTML, SQL\n• Spring, Tensorflow, ReactJS, DevOps"
         }
       ]
